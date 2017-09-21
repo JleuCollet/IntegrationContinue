@@ -1,6 +1,7 @@
 
 public class Contact {
 	
+	//
 	private String nom;
 	private String tel;
 	
